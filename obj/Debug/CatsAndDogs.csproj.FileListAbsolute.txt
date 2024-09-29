@@ -1,0 +1,7 @@
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe.config
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.pdb
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.AssemblyReference.cache
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CoreCompileInputs.cache
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.exe
+E:\Институт\C#\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.pdb
