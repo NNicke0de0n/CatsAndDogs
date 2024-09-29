@@ -13,6 +13,9 @@ namespace CatsAndDogs
         { 
             Breed = breed;
         }
-        
+        public override string ToString()
+        {
+            return $"{base.ToString()},{Breed}";
+        }
     }
 }

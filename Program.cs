@@ -11,11 +11,13 @@ namespace CatsAndDogs
         static void Main(string[] args)
         {
             Cats cat = new Cats("Mona",10,"British");
-            Dogs dog = new Dogs("Ben",10,"Chihua-hua");
+            Dogs dog = new Dogs("Ben",10,Size.Big);
             dog.Owned();
             cat.Owned();
-            Console.WriteLine(dog);
-            Console.WriteLine(cat);
+            Person person = new Person("Nik");
+            person.Animals.Add(dog);
+            person.Animals.Add(cat);
+            Console.WriteLine(person);
             Console.ReadKey();
         }
     }

@@ -8,10 +8,14 @@ namespace CatsAndDogs
 {
     internal class Dogs : Animal
     {
-        public string Breed { get; protected set; }
-        public Dogs(string name, int age, string breed) : base(name, age)
+        public Size Size { get; protected set; }
+        public Dogs(string name, int age, Size size) : base(name, age)
         {
-            Breed = breed;
+            Size = size;
+        }
+        public override string ToString()
+        {
+            return $"{base.ToString()},{Size} ";
         }
     }
 }
